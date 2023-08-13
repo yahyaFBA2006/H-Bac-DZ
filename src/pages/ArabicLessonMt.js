@@ -17,12 +17,12 @@ function ArabicLessonMt() {
               </div>
         <ul className='space-y-6'>
         <li>
-                    <a href={process.env.PUBLIC_URL + 'https://drive.google.com/file/d/1kGc6_tsIJzQp5VBRG2ZNM19qnr8N87Gm/view?usp=sharing'} className="pr-16 pl-16 pt-2 pb-2 rounded-full transition-transform duration-300 transform hover:-translate-y-2 hover:shadow-lg bg-red-300 ">
+                    <a href={process.env.PUBLIC_URL + 'https://drive.google.com/file/d/1kGc6_tsIJzQp5VBRG2ZNM19qnr8N87Gm/view?usp=sharing'} className="pr-4 pl-4 pt-2 pb-2 rounded-full transition-transform duration-300 transform hover:-translate-y-2 hover:shadow-lg bg-red-300 ">
       ملخص شامل  
                     </a>
                 </li>
                 <li>
-                    <a href={process.env.PUBLIC_URL + 'https://drive.google.com/file/d/1d250xc9mC2frKAINZ30iel32DgQfSsjo/view?usp=sharing'} className="pr-16 pl-16 pt-2 pb-2 rounded-full transition-transform duration-300 transform hover:-translate-y-2 hover:shadow-lg bg-red-300 ">
+                    <a href={process.env.PUBLIC_URL + 'https://drive.google.com/file/d/1d250xc9mC2frKAINZ30iel32DgQfSsjo/view?usp=sharing'} className="pr-4 pl-4 pt-2 pb-2 rounded-full transition-transform duration-300 transform hover:-translate-y-2 hover:shadow-lg bg-red-300 ">
                     الاسئلة المتكررة
                     </a>
                 </li>

@@ -17,24 +17,24 @@ function MathTestMt() {
 
     <ul className='space-y-6'>
             <li>
-                <a href={process.env.PUBLIC_URL + 'https://drive.google.com/file/d/1eYR1--iiufnHqQluF2RKpnhzSGdrakBA/view'} className="pr-16 pl-16 pt-2 pb-2 rounded-full transition-transform duration-300 transform hover:-translate-y-2 hover:shadow-lg bg-red-300 ">
+                <a href={process.env.PUBLIC_URL + 'https://drive.google.com/file/d/1eYR1--iiufnHqQluF2RKpnhzSGdrakBA/view'} className="pr-4 pl-4 pt-2 pb-2 rounded-full transition-transform duration-300 transform hover:-translate-y-2 hover:shadow-lg bg-red-300 ">
 مواضيع بكالوريا تجريبية مع الحل الجزء الاول
                 </a>
             </li>
             <li>
-                <a href={process.env.PUBLIC_URL + 'https://drive.google.com/file/d/1P9daW2o5xarEsuLEQV4G6PAApC9sPSKa/view'} className="pr-16 pl-16 pt-2 pb-2 rounded-full transition-transform duration-300 transform hover:-translate-y-2 hover:shadow-lg bg-red-300 ">
+                <a href={process.env.PUBLIC_URL + 'https://drive.google.com/file/d/1P9daW2o5xarEsuLEQV4G6PAApC9sPSKa/view'} className="pr-4 pl-4 pt-2 pb-2 rounded-full transition-transform duration-300 transform hover:-translate-y-2 hover:shadow-lg bg-red-300 ">
                 مواضيع بكالوريا تجريبية مع الحل الجزء الثاني
 
                 </a>
             </li>
             <li>
-                <a href={process.env.PUBLIC_URL + 'https://drive.google.com/file/d/1F-jmlPGItsQUIWr25BC4c94f0q5WxQUL/view'} className="pr-16 pl-16 pt-2 pb-2 rounded-full transition-transform duration-300 transform hover:-translate-y-2 hover:shadow-lg bg-red-300 ">
+                <a href={process.env.PUBLIC_URL + 'https://drive.google.com/file/d/1F-jmlPGItsQUIWr25BC4c94f0q5WxQUL/view'} className="pr-4 pl-4 pt-2 pb-2 rounded-full transition-transform duration-300 transform hover:-translate-y-2 hover:shadow-lg bg-red-300 ">
                 مواضيع بكالوريا تجريبية مع الحل الجزء الثالث
 
                 </a>
             </li>
             <li>
-                <a href={process.env.PUBLIC_URL + 'https://drive.google.com/file/d/1CGs1Og5MioCrAslPVjlf2R96I6WH7ywt/view'} className="pr-16 pl-16 pt-2 pb-2 rounded-full transition-transform duration-300 transform hover:-translate-y-2 hover:shadow-lg bg-red-300 ">
+                <a href={process.env.PUBLIC_URL + 'https://drive.google.com/file/d/1CGs1Og5MioCrAslPVjlf2R96I6WH7ywt/view'} className="pr-4 pl-4 pt-2 pb-2 rounded-full transition-transform duration-300 transform hover:-translate-y-2 hover:shadow-lg bg-red-300 ">
                 مواضيع بكالوريا تجريبية مع الحل الجزء الرابع
 
                 </a>
