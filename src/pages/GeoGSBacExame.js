@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from "react-router-dom";
 
 function GeoGSBacExame() {
   return (
@@ -21,10 +22,15 @@ function GeoGSBacExame() {
       <p className='pb-12 text-xl text-red-400 opacity-0 animation-delay-4000 animate-pulse hover:opacity-100'>
           * Bac 2024 , Yes you can *
       </p>
+
+<Link to="https://docs.google.com/viewerng/viewer?url=https://www.dzexams.com/uploads/sujets/officiels/bac/2023/dzexams-bac-histoire-geographie-854508.pdf">
+<h1 className='pr-5 pl-5 pt-2 pb-2 rounded-full transition-transform duration-300 transform hover:-translate-y-2 hover:shadow-lg bg-slate-300 '>
+     امتحان بكالوريا 2023 مع الحل  
+</h1>
+</Link>
+
 <ul className='space-y-6'>
-<li>
-  <a href={process.env.PUBLIC_URL + 'https://docs.google.com/viewerng/viewer?url=https://www.dzexams.com/uploads/sujets/officiels/bac/2023/dzexams-bac-histoire-geographie-854508.pdf'} className="pr-5 pl-5 pt-2 pb-2 rounded-full transition-transform duration-300 transform hover:-translate-y-2 hover:shadow-lg bg-slate-300 ">امتحان بكالوريا 2023 مع الحل </a> 
-</li>
+
 <li>
   <a href={process.env.PUBLIC_URL + 'https://docs.google.com/viewerng/viewer?url=https://www.dzexams.com/uploads/sujets/officiels/bac/2022/dzexams-bac-hisgeo-1133081.pdf'} className="pr-5 pl-5 pt-2 pb-2 rounded-full transition-transform duration-300 transform hover:-translate-y-2 hover:shadow-lg bg-slate-300 ">امتحان بكالوريا 2022 مع الحل </a> 
 </li>
