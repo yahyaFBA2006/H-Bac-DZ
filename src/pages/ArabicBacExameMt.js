@@ -25,7 +25,8 @@ function ArabicBacExameMt() {
         <ul className='space-y-6'>
         <li>
             <a href={process.env.PUBLIC_URL + 'https://eddirasa.com/wp-content/uploads/2023/06/bac-arabe-sc-2023.pdf'} className="pr-5 pl-5 pt-2 pb-2 rounded-full transition-transform duration-300 transform hover:-translate-y-2 hover:shadow-lg bg-slate-300 ">امتحان بكالوريا 2023</a> 
-
+            </li>
+        <li>
             <a href={process.env.PUBLIC_URL + 'https://eddirasa.com/wp-content/uploads/2023/07/eddirasa.com-correction-bac-arabic-se-2023.pdf'} className="pr-5 pl-5 pt-2 pb-2  rounded-full transition-transform duration-300 transform hover:-translate-y-2 hover:shadow-lg bg-green-300 ">  حل امتحان بكالوريا 2023</a>
         </li>
         <li>
