@@ -16,7 +16,7 @@ function MathBookPage() {
       </div>
 
                   <li>
-            <a href={process.env.PUBLIC_URL + 'https://drive.google.com/file/d/0B3R5Ic-6wo6uZnhLT2JMR0VnenM/view?fbclid=IwAR3UEUvTd9MEPQa-Fd378BDQNeZwl87ioVQb3pu1FlROLOICuGedQLspyCQ&resourcekey=0-5gMU5TMbAAzgyQhg_xHp6w'} className="pr-16 pl-16 pt-2 pb-2 rounded-full transition-transform duration-300 transform hover:-translate-y-2 hover:shadow-lg bg-red-300 ">
+            <a href={process.env.PUBLIC_URL + 'https://drive.google.com/file/d/0B3R5Ic-6wo6uZnhLT2JMR0VnenM/view?fbclid=IwAR3UEUvTd9MEPQa-Fd378BDQNeZwl87ioVQb3pu1FlROLOICuGedQLspyCQ&resourcekey=0-5gMU5TMbAAzgyQhg_xHp6w'} className="pr-4 pl-4 pt-2 pb-2 rounded-full transition-transform duration-300 transform hover:-translate-y-2 hover:shadow-lg bg-red-300 ">
 الكتاب المدرسي في مادة الرياضيات
             </a>
         </li>

@@ -16,7 +16,7 @@ function EnglishBookPage() {
               </div>
         
                           <li>
-                    <a href={process.env.PUBLIC_URL + 'https://eddirasa.com/wp-content/uploads/2014/books/3AS/anglais_3as.pdf'} className="pr-16 pl-16 pt-2 pb-2 rounded-full transition-transform duration-300 transform hover:-translate-y-2 hover:shadow-lg bg-red-300 ">
+                    <a href={process.env.PUBLIC_URL + 'https://eddirasa.com/wp-content/uploads/2014/books/3AS/anglais_3as.pdf'} className="pr-2 pl-2 pt-2 pb-2 rounded-full transition-transform duration-300 transform hover:-translate-y-2 hover:shadow-lg bg-red-300 ">
         الكتاب المدرسي في مادة اللغة الانجليزية 
                     </a>
                 </li>

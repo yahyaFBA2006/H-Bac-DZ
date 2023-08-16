@@ -47,7 +47,10 @@ function SCSCLesson() {
 </li>
 <li>
 <a href={process.env.PUBLIC_URL + 'https://drive.google.com/file/d/1D7lGTxf8HfIApFVUqaP3q8xZyamaLcKM/view?usp=sharing'} className=" text-sm pt-2 pb-2 rounded-full transition-transform duration-300 transform hover:-translate-y-2 hover:shadow-lg bg-red-300 ">
-ATPملخص اليات تحويل الطاقة الكيميائية الكامنة في الجزيئات العضوية الى 
+
+                 ملخص اليات تحويل الطاقة 
+  ATP    الكيميائية الكامنة في الجزيئات العضوية الى 
+ 
 </a>
 </li>
 <li>
