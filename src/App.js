@@ -117,7 +117,7 @@ import PhiloBacExameLG from './pages/PhiloBacExameLG';
 import EnglishBacExameLG from './pages/EnglishBacExameLG';
 import FrenchBacExameLG from './pages/FrenchBacExameLG';
 
-
+import { Analytics } from '@vercel/analytics/*';
 
 function App() {
 
@@ -242,6 +242,7 @@ function App() {
         </Routes>
         <Footer/>
       </Router>
+      <Analytics />
 <div>
 </div>
     </div>
