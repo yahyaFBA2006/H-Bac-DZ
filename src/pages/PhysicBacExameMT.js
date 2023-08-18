@@ -23,7 +23,7 @@ function PhysicBacExameMt() {
                 </p>
       <ul className='space-y-6'>
         <li>
-            <a href={process.env.PUBLIC_URL + 'https://drive.google.com/file/d/1kA-WPQioG9He7Z96fB7_rVqdfR2ijuCL/view'} className="pr-5 pl-5 pt-2 pb-2 rounded-full transition-transform duration-300 transform hover:-translate-y-2 hover:shadow-lg bg-slate-300 ">امتحان بكالوريا 2023 مع الحل </a> 
+            <a href={process.env.PUBLIC_URL + 'https://docs.google.com/viewerng/viewer?url=https://www.dzexams.com/uploads/sujets/officiels/bac/2023/dzexams-bac-physique-820611.pdf'} className="pr-5 pl-5 pt-2 pb-2 rounded-full transition-transform duration-300 transform hover:-translate-y-2 hover:shadow-lg bg-slate-300 ">امتحان بكالوريا 2023 مع الحل </a> 
         </li>
         <li>
             <a href={process.env.PUBLIC_URL + 'https://drive.google.com/file/d/1kA-WPQioG9He7Z96fB7_rVqdfR2ijuCL/view'} className="pr-5 pl-5 pt-2 pb-2 rounded-full transition-transform duration-300 transform hover:-translate-y-2 hover:shadow-lg bg-slate-300 ">امتحان بكالوريا 2022 مع الحل</a> 
